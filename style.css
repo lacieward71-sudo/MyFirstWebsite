@@ -44,3 +44,15 @@ footer {
     padding: 20px;
     color: #783232;
 }
+.contact-button {
+    background-color: white;
+    color: #783232 !important;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-button:hover {
+    background-color: #f4dada;
+}
