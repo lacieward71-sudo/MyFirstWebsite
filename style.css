@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F7A6A6;
+    color: #783232;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #783232;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #783232;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #783232;
+}
